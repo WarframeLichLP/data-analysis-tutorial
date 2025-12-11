@@ -11,8 +11,9 @@ This project will teach you to build a complete Next.js application with:
 3. Favorites
 4. Filtering
 5. Sorting
-
+ 
 ## Learning Outcomes
+
 
 By completing this project, you will:
 
